@@ -11,5 +11,6 @@ https://github.com/dzhibas/SublimePrettyJson
 https://github.com/clthck/ruby-slim.tmbundle.git
 ```
 
-- Language Specific Settings
+## Language Specific Settings
+
 For language specific settings click Sublime Text > Preferences > Settings – More > Syntax Specific – User. Then save the file using the following format: LANGUAGE.sublime-settings. So, for Python-specific settings, save the file as Python.sublime-settings.
